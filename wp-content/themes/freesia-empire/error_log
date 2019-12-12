@@ -1,0 +1,4 @@
+[12-Dec-2019 10:45:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/rossipilleiktkhk/public_html/wordpress/wp-content/themes/freesia-empire/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/rossipilleiktkhk/public_html/wordpress/wp-content/themes/freesia-empire/index.php on line 12
